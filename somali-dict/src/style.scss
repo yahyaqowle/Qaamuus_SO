@@ -1,0 +1,35 @@
+.home {
+    /* Add your overall styles for the home page */
+  }
+  
+  header {
+    /* Add styles for the header section */
+  }
+  
+  nav {
+    /* Add styles for the navigation */
+  }
+  
+  ul {
+    /* Add styles for the list of navigation links */
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  ul li {
+    margin-left: 10px;
+  }
+  
+  ul li a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  main {
+    /* Add styles for the main content section */
+  }
+  
+  footer {
+    /* Add styles for the footer section */
+  }

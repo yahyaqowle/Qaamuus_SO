@@ -1,11 +1,9 @@
-import './App.css';
+import "./style.scss"
+import Home from "./pages/Home";
 
 function App() {
   return (
-    <div className="App">
-      <h1>first touch</h1>
-      <h2>Second touch</h2>
-    </div>
+    <Home/>
   );
 }
 
