@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Stats() {
+const Stats = () => {
   return (
     <div>Stats</div>
   )

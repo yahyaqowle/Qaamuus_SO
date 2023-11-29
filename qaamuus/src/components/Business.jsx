@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Business() {
+const Business = () => {
   return (
     <div>Business</div>
   )

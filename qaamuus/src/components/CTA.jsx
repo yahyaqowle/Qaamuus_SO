@@ -1,6 +1,6 @@
 import React from 'react'
 
-function CTA() {
+const CTA = () => {
   return (
     <div>CTA</div>
   )
